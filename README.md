@@ -1,16 +1,7 @@
-# login
+This is a minimalistic Login page in Flutter  with Firebase .
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/SahilRaut14/LoginPage/assets/100335359/efc58968-0197-470c-89da-416f4f05ac97)
+![image](https://github.com/SahilRaut14/LoginPage/assets/100335359/c87e6395-cd6c-4541-9751-43d96fe71b61)
