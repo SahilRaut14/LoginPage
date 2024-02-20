@@ -1,4 +1,4 @@
-This is a minimalistic Login page with Firebase .
+This is a minimalistic Login page in Flutter  with Firebase .
 
 
 
